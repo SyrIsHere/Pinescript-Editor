@@ -1,0 +1,27 @@
+{
+  "name": "Light Theme",
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "editor_background": "#FFFFFF",
+    "editor_foreground": "#000000",
+    "selection": "#ADD6FF",
+    "current_line": "#F0F0F0",
+    "line_number_background": "#F5F5F5",
+    "line_number_foreground": "#237893",
+    "border": "#E0E0E0",
+    "tab_active": "#FFFFFF",
+    "tab_inactive": "#ECECEC",
+    "tab_hover": "#E8E8E8"
+  },
+  "syntax": {
+    "keyword": "#0000FF",
+    "builtin": "#267F99",
+    "function": "#795E26",
+    "comment": "#008000",
+    "preprocessor": "#AF00DB",
+    "string": "#A31515",
+    "number": "#098658",
+    "operator": "#000000"
+  }
+}
